@@ -1,5 +1,4 @@
 # SQL COVID-19 Data Analysis Project
-Certainly! Below is a detailed README file for the provided SQL queries. Please note that you may need to adapt this README to your specific preferences, include any specific instructions, or provide additional context as needed.
 
 ![Project Logo](https://apps.bbmpgov.in/Covid19/en/images/corona.gif)
 
