@@ -9,7 +9,7 @@
 
 This repository contains a collection of SQL queries for analyzing COVID-19 data from the "owid-covid-data" and "Vaccination_info" datasets. The queries cover various aspects such as infection rates, death rates, and vaccination progress. The goal is to provide insights into the impact of the pandemic on a global and regional scale.
 
-## Table of Contents
+## Table of Contents:
 
 1. [Introduction](#introduction)
 2. [Queries](#queries)
@@ -22,13 +22,13 @@ This repository contains a collection of SQL queries for analyzing COVID-19 data
 5. [Examples](#examples)
 6. [License](#license)
 
-## Introduction
+## Introduction:
 
 The COVID-19 pandemic has had a significant impact worldwide. Analyzing the data related to the spread of the virus, death rates, and vaccination progress is crucial for understanding the situation. This repository contains SQL queries designed to extract meaningful information from the available datasets.
 
-## Queries
+## Queries:
 
-### Infection Analysis
+### Infection Analysis:
 
 1. **Countries with Highest Infection Rate Compared to Population:**
    - Identifies countries with the highest infection rates relative to their populations.
